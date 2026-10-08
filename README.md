@@ -1,6 +1,6 @@
 # About Me
 ## Who I am
-I'm a college student in the UK working towards my computer science, maths, further maths and physics A-levels. This year I will be applying to study computer science at number of universities and I hope to go to Cambridge.
+I'm a computer science student at the University of Cambridge.
 
 ## My technical skills
 - **Python** - I studied this at GCSE and have completed a number of personal projects in it, including the Advent of Code 2024
@@ -9,7 +9,7 @@ I'm a college student in the UK working towards my computer science, maths, furt
 - **HTML/CSS** - I have used this to make some simple websites
 
 ## Current projects
-My current project is a binary sudoku (aka Takuzu aka Binairo) game for the Numworks calculator. I'm also making a small ray-cast game in Java to help me learn the libGDX library.
+My current project is a binary sudoku game for the Numworks calculator. I'm also making a small ray-cast game in Java to help me learn the libGDX library.
 
 # My Repos
 ## Personal repos
